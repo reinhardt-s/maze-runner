@@ -4,6 +4,7 @@ import tkinter as tk
 from tkinter import Canvas
 from PIL import Image, ImageTk
 
+#TODO: Add comments
 app = tk.Tk()
 app.title("Maze Runner")
 
